@@ -1,4 +1,4 @@
-# Projetos_EstruturadDEDados
+# Projetos_EstruturaDEDados
 
 ## Sobre
 
